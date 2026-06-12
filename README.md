@@ -1,4 +1,4 @@
-# ERICO Python Exercises Portfolio
+# ECRIO Python Exercises Portfolio
 
 This repository contains the Python exercises from the internship sheet, organized as a polished learning portfolio. The exercises are simple by design, but the implementation focuses on clarity, correct construct selection, reusable code, and practical examples.
 
