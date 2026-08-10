@@ -99,3 +99,10 @@ python mqtt_examples/publisher.py
 ## Verification
 
 The standard-library and pandas exercise files were executed locally. Flask and MQTT scripts are dependency-ready and include their required project files, but full MQTT execution requires a local Mosquitto broker.
+
+## Report and Video Support
+
+- Exercise report: `reports/ERICO_Python_Exercises_Report.pdf`
+- Editable report: `reports/ERICO_Python_Exercises_Report.docx`
+- Video preparation guide: `VIDEO_GUIDE.md`
+- Final submission checklist: `SUBMISSION_CHECKLIST.md`
