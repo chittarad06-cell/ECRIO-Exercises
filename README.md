@@ -102,7 +102,7 @@ The standard-library and pandas exercise files were executed locally. Flask and 
 
 ## Report and Video Support
 
-- Exercise report: `reports/ERICO_Python_Exercises_Report.pdf`
-- Editable report: `reports/ERICO_Python_Exercises_Report.docx`
+- Exercise report: `reports/ECRIO_Python_Exercises_Report.pdf`
+- Editable report: `reports/ECRIO_Python_Exercises_Report.docx`
 - Video preparation guide: `VIDEO_GUIDE.md`
 - Final submission checklist: `SUBMISSION_CHECKLIST.md`
